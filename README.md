@@ -1,2 +1,1 @@
-# Elzero
-#Mastering python course 
+# Mastering python course 
